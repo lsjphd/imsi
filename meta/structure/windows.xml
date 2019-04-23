@@ -1,0 +1,9 @@
+<resource:Windows
+        xmlns:resource="http://www.tmaxsoft.com/top/SNAPSHOT/resource">
+            <resource:Window
+            id="MainWebStudioWindow"
+            ideUniqueId="IDd97109e2bbdf383c9ba978f9eb19cf24"
+            content="MainWebStudioPage"
+            package="com.tmaxos.topjonghyeon.window"
+            title="New Window"/>
+</resource:Windows>

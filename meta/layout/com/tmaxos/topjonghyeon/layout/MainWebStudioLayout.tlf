@@ -1,0 +1,30 @@
+<resource:LinearLayout
+    xmlns:resource="http://www.tmaxsoft.com/top/SNAPSHOT/resource"
+    id="MainWebStudioLayout"
+    ideUniqueId="IDab2e005b8d0a3be1943300561a0af6c9"
+    layoutHeight="match_parent"
+    layoutWidth="match_parent"
+    internalPageView="MainWebStudioPage"
+    orientation="vertical">
+        <resource:Button
+        id="Button0"
+        layoutHeight="wrap_content"
+        layoutHorizontalAlignment="LEFT"
+        layoutWidth="wrap_content"
+        text="New Button">
+        </resource:Button>
+        <resource:Button
+        id="Button6"
+        layoutHeight="159"
+        layoutHorizontalAlignment="LEFT"
+        layoutWidth="376"
+        text="New Button">
+        </resource:Button>
+        <resource:Button
+        id="Button14"
+        layoutHeight="wrap_content"
+        layoutHorizontalAlignment="LEFT"
+        layoutWidth="wrap_content"
+        text="New Button">
+        </resource:Button>
+</resource:LinearLayout>

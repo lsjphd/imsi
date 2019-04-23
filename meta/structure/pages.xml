@@ -1,0 +1,8 @@
+<resource:PageViews
+        xmlns:resource="http://www.tmaxsoft.com/top/SNAPSHOT/resource">
+            <resource:PageView
+            id="MainWebStudioPage"
+            ideUniqueId="ID1024fe86c5393c5cbc5f08bcc77e4d00"
+            content="MainWebStudioLayout"
+            package="com.tmaxos.topjonghyeon.pageview"/>
+</resource:PageViews>

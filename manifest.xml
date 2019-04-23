@@ -1,0 +1,5 @@
+<resource:Application
+    xmlns:resource="http://www.tmaxsoft.com/top/SNAPSHOT/resource"
+    id="WebStudio"
+    basePackage="com.tmaxos.topjonghyeon"
+    root="MainWebStudioWindow"/>
